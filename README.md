@@ -3,7 +3,7 @@
 
 ### 介绍
 
-去年年初写的，主体内容采用iframe，功能见demo页。
+去年年初写的，主体内容采用iframe，功能见demo页。工具栏图标使用iconfont，其中颜色设置采用自己写的color-take.js(https://github.com/joy-yi0905/color-take) 。
 
 
 ### 为什么不用div代替iframe
